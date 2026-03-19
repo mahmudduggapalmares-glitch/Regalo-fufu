@@ -13,7 +13,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-html_final =
+html_final = """
 <!DOCTYPE html>
 <html>
 <head>
