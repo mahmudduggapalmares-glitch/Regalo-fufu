@@ -119,4 +119,4 @@ html_final = """
                 if (player && player.playVideo) { player.playVideo(); }
                 
                 const display = document.getElementById('message-display');
-                display.innerText = texto;
+                display.innerText = texto; """
