@@ -13,7 +13,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-html_final = """
+html_final =
 <!DOCTYPE html>
 <html>
 <head>
@@ -119,4 +119,4 @@ html_final = """
                 if (player && player.playVideo) { player.playVideo(); }
                 
                 const display = document.getElementById('message-display');
-                display.innerText = texto; """
+                display.innerText = texto;
